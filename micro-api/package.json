@@ -38,7 +38,7 @@
     "class-validator": "^0.12.2",
     "commander": "^6.0.0",
     "connect-redis": "^5.0.0",
-    "express-session": "^1.17.1",
+    "express-session": "^1.18.1",
     "keycloak-admin": "^1.13.0",
     "keycloak-connect": "^11.0.0",
     "loopback-connector-esv6": "https://github.com/codeedu/loopback-connector-elastic-search/tarball/master",
